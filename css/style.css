@@ -1,0 +1,568 @@
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Aladin&family=Noto+Serif+Lao&family=Oswald&family=Playfair+Display&family=Tilt+Prism&display=swap');
+
+body{
+    background: #44444478 !important;
+    color: black !important;
+}
+.color_oltar{
+    color: white !important;
+    font-family: 'Aladin';
+    font-weight: 700;
+    letter-spacing: 2px;
+    font-size: 18px;
+    text-shadow: 0 0 4px gray;
+}
+.nav_icon img{
+    width: 100%;
+    height: 200px;
+}
+.container-fluid .navbar-brand img{
+    width: 76px;
+    height: 76px;
+}
+/* .portfolio_item_fast_section{} */
+.fast{
+    background: transparent !important;
+}
+.portfolio_item_fast_section h5{
+    font-size: 50px;
+    font-weight: 700;
+    margin: 0;
+    font-family: 'Tilt Prism', cursive;
+    letter-spacing: 1px;
+}
+.portfolio_item_fast_section p{
+    width: 60%;
+    font-family: 'Oswald', sans-serif;
+    font-size: 19px;
+}
+.portfolio_item_fast_section a{
+    text-decoration: none;
+    padding: 7px 23px;
+    background: lawngreen;
+    color: black;
+    font-size: 17px;
+    font-weight: 600;
+    font-family: initial;
+    border-radius: 9px;
+    border: none;
+    box-shadow: 0 0 3px 1px white;
+}
+.portfolio_item_fast_section a i{
+    padding-left: 9px;
+}
+.portfolio_item_secend_section img{
+    width: 100%;
+}
+.upto{
+    padding: 50px 0;
+}
+.basic_experence{
+    background: linear-gradient(179deg, #605a35,#817843d6, #a7a7a7);
+    text-align: center;
+    width: 70%;
+    color: yellow;
+    font-family: aladin;
+    padding: 34px 0;
+    border-radius: 11px;
+    position: relative;
+    padding-bottom: 98px;
+    margin-top: 65px;
+}
+.basic_experence_year{
+    padding: 0px 92px;
+    overflow: hidden;
+}
+.basic_experence_year h1{
+    font-size: 66px;
+    font-weight: 900;
+    border: 4px solid gainsboro;
+    border-radius: 50%;
+    padding: 11px;
+    width: 107px;
+
+}
+.basic_experence p{
+    color: white;
+    font-size: 18px;
+}
+.basic_experence .client{
+    background-image: linear-gradient(325deg, #fcc5e4 0%, #fda34b 15%, #ff7882 35%, #c8699e 52%, #7046aa 71%, #0c1db8 87%, #020f75 100%);
+    position: absolute;
+    padding: 4px 20px;
+    border-radius: 7px;
+    bottom: 34px;
+    right: -66px;
+}
+.basic_experence .client h1{
+    margin: 0;
+    padding: 11px 0px;
+    font-size: 29px;
+}
+.basic_experence .client p{
+    margin: 0;
+    padding: 8px 0;
+    font-size: 14px;
+}
+
+.advance_experance{}
+.advance_experance h1{
+    color: white;
+    font-family: 'Tilt Prism';
+    font-size: 42px;
+}
+.advance_experance p{
+    color: white;
+    font-family: 'Oswald';
+    font-size: 18px;
+    width: 80%;
+}
+
+.advance_experance .advance_experence_section{
+    text-align: center;
+}
+.advance_experance .advance_experence_section .advance_experance_include{
+    background-image: linear-gradient(to top, #9795f0 0%, #fbc8d4 100%);
+    margin: 13px 54px;
+    padding: 15px 0;
+    border-radius: 10px;
+}
+.advance_experance .advance_experence_section .advance_experance_include h3{
+    font-size: 40px;
+    color: yellow;
+    font-weight: 900;
+    font-family: 'Aladin';
+}
+.advance_experance .advance_experence_section .advance_experance_include p{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    font-size: 21px;
+    width: 100%;
+    letter-spacing: 4px;
+}
+
+
+.advance_experance .advance_experence_section .advance_experance_include1 {
+    border-top: 3px solid #e16ade;
+    border-right: 3px solid #e16ade;
+    border-left: 3px solid #e16ade;
+}
+.advance_experance .advance_experence_section .advance_experance_include1 h3{
+    color: #e16ade;
+}
+.advance_experance .advance_experence_section .advance_experance_include2{
+    border-top: 3px solid blue;
+    border-right: 3px solid blue;
+    border-left: 3px solid blue;
+}
+.advance_experance .advance_experence_section .advance_experance_include2 h3{
+    color: blue;
+}
+.advance_experance .advance_experence_section .advance_experance_include3 h3{
+    color: blueviolet;
+}
+.advance_experance .advance_experence_section .advance_experance_include3{
+    border-top: 3px solid blueviolet;
+    border-right: 3px solid blueviolet;
+    border-left: 3px solid blueviolet;
+}
+.advance_experance .advance_experence_section .advance_experance_include4 h3{
+    color: yellow;
+}
+.advance_experance .advance_experence_section .advance_experance_include4{
+    border-top: 3px solid yellow;
+    border-right: 3px solid yellow;
+    border-left: 3px solid yellow;
+}
+
+.my_service{
+    padding-bottom: 34px;
+    text-align: center !important;
+
+}
+.my_service h1{
+    color: white;
+    font-size: 48px;
+    font-family: 'Tilt Prism';
+}
+.my_service p{
+    padding: 0 10%;
+    font-size: 17px;
+}
+
+.experence_btn{
+    border: 2px solid gray;
+    border-radius: 30px;
+    padding: 8px 50px;
+    font-size: 22px;
+    background: transparent;
+    color: white;
+    font-weight: 700;
+    box-shadow: 0 0 6px #c789ff;
+}
+
+.popular_different_servive{
+    text-align: center !important;
+    padding: 31px 0;
+    background: #adadad;
+    margin: 23px 0;
+    border-radius: 8px;
+}
+.popular_different_servive:hover{
+  background: #a7adb6;  
+  box-shadow: 0 0 5px grey;
+}
+.popular_different_servive> i{
+    font-size: 47px;
+    background: lightgrey;
+    padding: 18px;
+    border-radius: 50%;
+    color: mediumblue;
+}
+.popular_different_servive:hover> i{
+    background: transparent;
+    box-shadow: 0 0 5px 1px gray;
+    color: #c8699e;
+}
+.popular_different_servive h3{
+    color: white;
+    padding: 12px 0;
+    margin: 0;
+    font-size: 27px;
+    font-family: 'Oswald';
+    font-weight: 700;
+    letter-spacing: 1px;
+}
+.popular_different_servive p{
+    margin: 0;
+    padding: 0 8%;
+    padding-bottom: 9px;
+    font-size: 15px;
+    color: white;
+}
+.popular_different_servive a {
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+.popular_different_servive a:hover{
+    text-decoration: underline;
+}
+.popular_different_servive a i{
+    margin-left: 6px;
+}
+
+.current_work{
+
+}
+.current_work h2{
+    font-size: 55px;
+    font-family: 'Tilt Prism';
+    color: white;
+}
+.current_work p{
+    padding-right: 15%;
+    font-size: 15px;
+}
+.lets_go {
+    position: relative;
+}
+.lets_go a{}
+.lets_go a i{
+    font-size: 53px;
+    animation: chaka_gogin 4s infinite;
+}
+
+.caroso_fast{}
+.caroso_fast img{}
+.caroso_fast h5{}
+.caroso_fast p{}
+
+.other_side_img{
+    position: relative;
+    width: 100%;
+    height: 416px;
+}
+.other_side_img img{
+    width: 63px;
+    height: 63px;
+    border: 2px solid gray;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.other_side_img img:hover{
+    box-shadow: 0 0 5px darkmagenta;
+}
+.other_side_img img:nth-child(1){
+    top: 13%;
+    left: 10%;
+}
+.other_side_img img:nth-child(2){
+    bottom: 24%;
+    right: 25%;
+}
+.other_side_img img:nth-child(3){
+    top: 13%;
+    right: 26%;
+}
+.other_side_img img:nth-child(4){
+    bottom: 21%;
+    left: 6%;
+}
+.other_side_img img:nth-child(5){
+    top: 35%;
+    width: 100px;
+    left: 35%;
+    height: 100px;
+    background: white;
+    border: 3px solid #d100ff;
+}
+/* Chart 4 Content */
+
+.priciling_chart{}
+.priciling_chart h1{
+    font-size: 55px;
+    color: white;
+    font-family: 'Tilt Prism';
+}
+.priciling_chart p{
+    font-family: 'Aladin';
+    font-size: 19px;
+    letter-spacing: 1px;
+}
+
+.Pricing_chart_detials {
+    text-align: center;
+    background: #ccbade;
+    padding: 0 11%;
+    border-radius: 6px;
+    padding-bottom: 18px;
+    margin: 20px 0;
+}
+.Pricing_chart_detials p:nth-child(1){
+    background: green;
+    font-size: 24px;
+    font-family: 'Aladin';
+    color: white;
+    margin: 0px 22%;
+    margin-bottom: 9px;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 40px;
+}
+.Pricing_chart_detials h3{
+    font-size: 50px;
+    font-family: 'Tilt Prism';
+}
+.Pricing_chart_detials h3 span{
+    font-size: 22px;
+    font-family: 'Aladin';
+    color: brown;
+}
+.Pricing_chart_detials h3 span sub{ }
+.Pricing_chart_detials p:nth-child(2){}
+.Pricing_chart_detials hr{}
+.Pricing_chart_detials ul{
+    list-style: none;
+    font-size: 18px;
+    font-family: 'Aladin';
+    padding: 0;
+    margin: 0;
+}
+.Pricing_chart_detials ul li{}
+.Pricing_chart_detials a{
+    background: gray;
+    font-size: 18px;
+    font-family: fantasy;
+    color: white;
+    letter-spacing: 2px;
+    margin: 8px 0;
+}
+.Pricing_chart_detials a:hover{
+    background: white;
+}
+
+.margin_hobe{
+    padding: 48px 0px;
+}
+.responsive_website img{
+    width: 100%;
+}
+.responsive_website_content{
+    margin-top: 26px;
+}
+.responsive_website_content p:nth-child(1){
+    font-family: 'Oswald';
+    color: red;
+    font-size: 21px;
+    letter-spacing: 3px;
+    box-shadow: 0px 1px 2px grey;
+    width: 218px;
+    padding-left: 6px;
+    border-radius: 5px;
+}
+.responsive_website_content p:nth-child(3){
+    color: white;
+    font-family: 'Oswald';
+    font-size: 18px;
+}
+.responsive_website_content h1{
+    color: white;
+    font-size: 38px;
+    font-family: 'Tilt Prism';
+}
+
+.get_tuch{}
+.get_tuch h2{
+    font-family: 'Tilt Prism';
+    font-size: 57px;
+}
+.get_tuch p{
+    padding: 0 22%;
+    font-size: 22px;
+    font-family: 'Aladin';
+}
+
+.user_input_area{
+    border: 1px solid gray;
+    padding: 23px;
+    border-radius: 8px;
+    width: 75%;
+    box-shadow: 0 0 7px;
+    background: white;
+}
+.user_input_area ul{
+    list-style: none;
+    padding: 0;
+}
+.user_input_area ul li{
+    margin: 12px 0;
+}
+.user_input_area ul li i{
+    font-size: 25px;
+}
+.user_input_area ul li  input{
+    border: none;
+    margin: 4px 0;
+    background: transparent;
+    border-bottom: 2px solid gray;
+    padding: 2px 0;
+    outline: none;
+    padding-left: 6px;
+    margin-left: 9px;
+}
+/* .user_input_area ul li  input .input_name{} */
+.user_input_area ul li  .input_textarea{
+    border: none;
+    margin: 4px 0;
+    background: transparent;
+    border-bottom: 2px solid gray;
+    padding: 2px 0;
+    outline: none;
+    padding-left: 6px;
+    margin-left: 9px;
+}
+.soro{
+        padding: 34px 0;
+}
+
+
+.contact_information{
+    border: 1px solid gray;
+    padding: 16px;
+    border-radius: 8px;
+    width: 75%;
+    box-shadow: 0 0 7px;
+    background: white;
+}
+.contact_information ul{
+    list-style: none;
+}
+.contact_information ul li{
+    margin: 11px 0;
+}
+.contact_information ul li i{
+    font-size: 27px;
+}
+.contact_information ul li p{
+    margin-left: 10px;
+    font-family: 'Oswald';
+    font-size: 19px;
+}
+.contact_information ul li p a{
+    text-decoration: none;
+    color: black;
+}
+.contact_information ul li p a:hover{
+    text-decoration: underline;
+    color: blue;
+}
+
+
+.footer_fast_section{}
+.footer_fast_section img{}
+.footer_fast_section p{}
+.footer_fast_section{}
+
+
+.footer_section_content{}
+.footer_section_content h4, .footer_newsLetter_section h4{
+    font-size: 37px;
+    font-family: 'Tilt Prism';
+    color: white;
+}
+.footer_section_content ul{
+    list-style: none;
+    padding: 0;
+}
+.footer_section_content ul li{
+    padding: 3px 0;
+}
+.footer_section_content ul li a{
+    text-decoration: none;
+    color: black;
+    font-family: aladin;
+    transition: .4s;
+    font-size: 18px;
+}
+.footer_section_content ul li a:hover{
+    margin-left: 4px;
+    color: #d100ff;
+    text-decoration: underline;
+}
+
+
+.footer_newsLetter_section{}
+
+.footer_newsLetter_section p{
+    font-family: 'Aladin';
+    font-size: 19px;
+}
+
+.emil_section input{
+    border: none;
+    outline: none;
+    border-top-left-radius: 6px;
+    border-bottom-left-radius: 6px;
+    padding: 5px;
+    padding-left: 5px;
+}
+.ft_in_icon i{
+    font-size: 46px;
+    margin-top: -6px;
+    color: #9101d6;
+    margin-left: 3px;
+}
+.footer_newsLetter_section .subscribe_btn{
+    border-radius: 30px;
+    color: white;
+    font-size: 21px;
+    padding: 5px 66px;
+    font-family: aladin;
+    background-image: linear-gradient(45deg, #7028e4 0%, #e5b2ca 100%);
+    border: 2px solid #d635d5;
+}
