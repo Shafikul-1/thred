@@ -108,7 +108,7 @@ body{
     font-size: 14px;
 }
 
-.advance_experance{}
+/* .advance_experance{} */
 .advance_experance h1{
     color: white;
     font-family: 'Tilt Prism';
@@ -256,9 +256,9 @@ body{
     margin-left: 6px;
 }
 
-.current_work{
+/* .current_work{
 
-}
+} */
 .current_work h2{
     font-size: 55px;
     font-family: 'Tilt Prism';
@@ -271,16 +271,16 @@ body{
 .lets_go {
     position: relative;
 }
-.lets_go a{}
+/* .lets_go a{} */
 .lets_go a i{
     font-size: 53px;
     animation: chaka_gogin 4s infinite;
 }
 
-.caroso_fast{}
+/* .caroso_fast{}
 .caroso_fast img{}
 .caroso_fast h5{}
-.caroso_fast p{}
+.caroso_fast p{} */
 
 .other_side_img{
     position: relative;
@@ -324,7 +324,7 @@ body{
 }
 /* Chart 4 Content */
 
-.priciling_chart{}
+/* .priciling_chart{} */
 .priciling_chart h1{
     font-size: 55px;
     color: white;
@@ -363,9 +363,9 @@ body{
     font-family: 'Aladin';
     color: brown;
 }
-.Pricing_chart_detials h3 span sub{ }
+/* .Pricing_chart_detials h3 span sub{ }
 .Pricing_chart_detials p:nth-child(2){}
-.Pricing_chart_detials hr{}
+.Pricing_chart_detials hr{} */
 .Pricing_chart_detials ul{
     list-style: none;
     font-size: 18px;
@@ -373,7 +373,7 @@ body{
     padding: 0;
     margin: 0;
 }
-.Pricing_chart_detials ul li{}
+/* .Pricing_chart_detials ul li{} */
 .Pricing_chart_detials a{
     background: gray;
     font-size: 18px;
@@ -416,7 +416,7 @@ body{
     font-family: 'Tilt Prism';
 }
 
-.get_tuch{}
+/* .get_tuch{} */
 .get_tuch h2{
     font-family: 'Tilt Prism';
     font-size: 57px;
@@ -503,13 +503,13 @@ body{
 }
 
 
-.footer_fast_section{}
+/* .footer_fast_section{}
 .footer_fast_section img{}
 .footer_fast_section p{}
-.footer_fast_section{}
+.footer_fast_section{} */
 
 
-.footer_section_content{}
+/* .footer_section_content{} */
 .footer_section_content h4, .footer_newsLetter_section h4{
     font-size: 37px;
     font-family: 'Tilt Prism';
@@ -536,7 +536,7 @@ body{
 }
 
 
-.footer_newsLetter_section{}
+/* .footer_newsLetter_section{} */
 
 .footer_newsLetter_section p{
     font-family: 'Aladin';
